@@ -1,0 +1,423 @@
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+   <teiHeader>
+      <fileDesc>
+         <titleStmt>
+            <title>Ishmael, and his mother, cast out into the wilderness, amongst the wild beasts of the same nature: or, a reply to a book entitulled, The scriptures proved to be the word of God, put forth by one of Ishmaels children, who calls himself a minister of the Gospel, and a pastor of S. Austins and Savours parish in Norwich; but is clearly made manifest by the light of God in his servants, to be a scoffer, and an enemy to the Gospel, which the saints of God are ministers of, and sufferers for, by such as hee is, who Ishmael-like, hath laid his folly open, and is discovered to the faithful, who are of Abraham, and of the seed of promise. Also, a cleer distinction between the minsters of Christ, who are of the seed of Abraham, and the priests of this generation, who are of Ishmaels root; who with the truth are plainly made manifest, by the light of Christ in us, who for the testimony of God do suffer by the sons of Hagar, and this generation of priests in Notwich [sic]: ... / Given forth from the spirit of the Lord in us that do suffer in the goal of Norwich for the truths sake, ... Christopher Atkinson, George Whitehead, Iames Lancaster, Thomas Simonds.</title>
+         </titleStmt>
+         <editionStmt>
+            <edition>
+               <date>1655</date>
+            </edition>
+         </editionStmt>
+         <extent>Approx. 40 KB of XML-encoded text transcribed from 8 1-bit group-IV TIFF page images.</extent>
+         <publicationStmt>
+            <publisher>Text Creation Partnership,</publisher>
+            <pubPlace>Ann Arbor, MI ; Oxford (UK) :</pubPlace>
+            <date when="2011-12">2011-12 (EEBO-TCP Phase 2).</date>
+            <idno type="DLPS">A75768</idno>
+            <idno type="STC">Wing A4127</idno>
+            <idno type="STC">Thomason E830_3</idno>
+            <idno type="STC">ESTC R207430</idno>
+            <idno type="EEBO-CITATION">99866480</idno>
+            <idno type="PROQUEST">99866480</idno>
+            <idno type="VID">118755</idno>
+            <availability>
+               <p>To the extent possible under law, the Text Creation Partnership has waived all copyright and related or neighboring rights to this keyboarded and encoded edition of the work described above, according to the terms of the CC0 1.0 Public Domain Dedication (http://creativecommons.org/publicdomain/zero/1.0/). This waiver does not extend to any page images or other supplementary files associated with this work, which may be protected by copyright or other license restrictions. Please go to https://www.textcreationpartnership.org/ for more information about the project.</p>
+            </availability>
+         </publicationStmt>
+         <seriesStmt>
+            <title>Early English books online.</title>
+         </seriesStmt>
+         <notesStmt>
+            <note>(EEBO-TCP ; phase 2, no. A75768)</note>
+            <note>Transcribed from: (Early English Books Online ; image set 118755)</note>
+            <note>Images scanned from microfilm: (Thomason Tracts ; 126:E830[3])</note>
+         </notesStmt>
+         <sourceDesc>
+            <biblFull>
+               <titleStmt>
+                  <title>Ishmael, and his mother, cast out into the wilderness, amongst the wild beasts of the same nature: or, a reply to a book entitulled, The scriptures proved to be the word of God, put forth by one of Ishmaels children, who calls himself a minister of the Gospel, and a pastor of S. Austins and Savours parish in Norwich; but is clearly made manifest by the light of God in his servants, to be a scoffer, and an enemy to the Gospel, which the saints of God are ministers of, and sufferers for, by such as hee is, who Ishmael-like, hath laid his folly open, and is discovered to the faithful, who are of Abraham, and of the seed of promise. Also, a cleer distinction between the minsters of Christ, who are of the seed of Abraham, and the priests of this generation, who are of Ishmaels root; who with the truth are plainly made manifest, by the light of Christ in us, who for the testimony of God do suffer by the sons of Hagar, and this generation of priests in Notwich [sic]: ... / Given forth from the spirit of the Lord in us that do suffer in the goal of Norwich for the truths sake, ... Christopher Atkinson, George Whitehead, Iames Lancaster, Thomas Simonds.</title>
+                  <author>Atkinson, Christopher.</author>
+               </titleStmt>
+               <extent>[2], 13, [1] p.   </extent>
+               <publicationStmt>
+                  <publisher>Printed for Giles Calvert, at the black Spread-Eagle, at the west end of Pauls,</publisher>
+                  <pubPlace>Londou [sic] :</pubPlace>
+                  <date>1655.</date>
+               </publicationStmt>
+               <notesStmt>
+                  <note>A reply to: Townsend, Sampson.  The Scriptures proved to be the word of God.</note>
+                  <note>Annotation in Thomason copy: "March. 12.", "1654"; 5 in imprint date crossed out.</note>
+                  <note>Reproduction of the original in the British Library.</note>
+               </notesStmt>
+            </biblFull>
+         </sourceDesc>
+      </fileDesc>
+      <encodingDesc>
+         <projectDesc>
+            <p>Created by converting TCP files to TEI P5 using tcp2tei.xsl,
+      TEI @ Oxford.
+      </p>
+         </projectDesc>
+         <editorialDecl>
+            <p>EEBO-TCP is a partnership between the Universities of Michigan and Oxford and the publisher ProQuest to create accurately transcribed and encoded texts based on the image sets published by ProQuest via their Early English Books Online (EEBO) database (http://eebo.chadwyck.com). The general aim of EEBO-TCP is to encode one copy (usually the first edition) of every monographic English-language title published between 1473 and 1700 available in EEBO.</p>
+            <p>EEBO-TCP aimed to produce large quantities of textual data within the usual project restraints of time and funding, and therefore chose to create diplomatic transcriptions (as opposed to critical editions) with light-touch, mainly structural encoding based on the Text Encoding Initiative (http://www.tei-c.org).</p>
+            <p>The EEBO-TCP project was divided into two phases. The 25,368 texts created during Phase 1 of the project (2000-2009), initially available only to institutions that contributed to their creation, were released into the public domain on 1 January 2015. The approximately 40,000 texts produced during Phase 2 (2009- ), of which 34,963 had been released as of 2020, originally similarly restricted, were similarly freed from all restrictions on 1 August 2020. As of that date anyone is free to take and use these texts for any purpose (modify them, annotate them, distribute them, etc.). But we do respectfully request that due credit and attribution be given to their original source.</p>
+            <p>Users should be aware of the process of creating the TCP texts, and therefore of any assumptions that can be made about the data.</p>
+            <p>Text selection was based on the New Cambridge Bibliography of English Literature (NCBEL). If an author (or for an anonymous work, the title) appears in NCBEL, then their works are eligible for inclusion. Selection was intended to range over a wide variety of subject areas, to reflect the true nature of the print record of the period. In general, first editions of a works in English were prioritized, although there are a number of works in other languages, notably Latin and Welsh, included and sometimes a second or later edition of a work was chosen if there was a compelling reason to do so.</p>
+            <p>Image sets were sent to external keying companies for transcription and basic encoding. Quality assurance was then carried out by editorial teams in Oxford and Michigan. 5% (or 5 pages, whichever is the greater) of each text was proofread for accuracy and those which did not meet QA standards were returned to the keyers to be redone. After proofreading, the encoding was enhanced and/or corrected and characters marked as illegible were corrected where possible up to a limit of 100 instances per text. Any remaining illegibles were encoded as &lt;gap&gt;s. Understanding these processes should make clear that, while the overall quality of TCP data is very good, some errors will remain and some readable characters will be marked as illegible. Users should bear in mind that in all likelihood such instances will never have been looked at by a TCP editor.</p>
+            <p>The texts were encoded and linked to page images in accordance with level 4 of the TEI in Libraries guidelines.</p>
+            <p>Copies of the texts have been issued variously as SGML (TCP schema; ASCII text with mnemonic sdata character entities); displayable XML (TCP schema; characters represented either as UTF-8 Unicode or text strings within braces); or lossless XML (TEI P5, characters represented either as UTF-8 Unicode or TEI g elements).</p>
+            <p>Keying and markup guidelines are available at the <ref target="http://www.textcreationpartnership.org/docs/.">Text Creation Partnership web site</ref>.</p>
+         </editorialDecl>
+         <listPrefixDef>
+            <prefixDef ident="tcp"
+                       matchPattern="([0-9\-]+):([0-9IVX]+)"
+                       replacementPattern="http://eebo.chadwyck.com/downloadtiff?vid=$1&amp;page=$2"/>
+            <prefixDef ident="char"
+                       matchPattern="(.+)"
+                       replacementPattern="https://raw.githubusercontent.com/textcreationpartnership/Texts/master/tcpchars.xml#$1"/>
+         </listPrefixDef>
+      </encodingDesc>
+      <profileDesc>
+         <langUsage>
+            <language ident="eng">eng</language>
+         </langUsage>
+         <textClass>
+            <keywords scheme="http://authorities.loc.gov/">
+               <term>Townsend, Sampson. --  Scriptures proved to be the word of God.</term>
+               <term>Whitehead, George, 1637-1724 --  Imprisonment --  Early works to 1800.</term>
+               <term>Society of Friends --  Apologetic works --  Early works to 1800.</term>
+               <term>Quakers --  England --  Norwick --  Early works to 1800.</term>
+            </keywords>
+         </textClass>
+      </profileDesc>
+      <revisionDesc>
+         <change>
+            <date>2010-04</date>
+            <label>TCP</label>Assigned for keying and markup</change>
+         <change>
+            <date>2010-05</date>
+            <label>SPi Global</label>Keyed and coded from ProQuest page images</change>
+         <change>
+            <date>2010-07</date>
+            <label>Olivia Bottum</label>Sampled and proofread</change>
+         <change>
+            <date>2010-07</date>
+            <label>Olivia Bottum</label>Text and markup reviewed and edited</change>
+         <change>
+            <date>2011-06</date>
+            <label>pfs</label>Batch review (QC) and XML conversion</change>
+      </revisionDesc>
+   </teiHeader>
+   <text xml:lang="eng">
+      <front>
+         <div type="title_page">
+            <pb facs="tcp:118755:1" rendition="simple:additions"/>
+            <p>ISHMAEL, And his MOTHER, Caſt out into the WILDERNESS, Amongſt the Wild Beaſts of the ſame NATURE: <hi>OR,</hi> A Reply to a Book entitulled, The Scriptures proved to be the word of God, put forth by one of Iſhmaels children, who calls himſelf a Mi<g ref="char:EOLhyphen"/>niſter of the Goſpel, and a Paſtor of S. Auſtins and Sa<g ref="char:EOLhyphen"/>vours Pariſh in Norwich; but is clearly made mani<g ref="char:EOLhyphen"/>feſt by the light of God in his Servants, to be a ſcoffer, and an enemy to the Goſpel, which the Saints of God are Miniſters of, and ſufferers for, by ſuch as hee is, who Iſhmael-like, hath laid his folly open, and is diſcovered to the faithful, who are of Abraham, and of the ſeed of Promiſe.</p>
+            <p>
+               <hi>ALSO,</hi> A cleer diſtinction between the Miniſters of Chriſt, who are of the ſeed of <hi>Abraham,</hi> and the Prieſts of this generation, who are of Iſhmaels root; who with the Truth are plainly made manifeſt, by the light of Chriſt in us, who for the teſtimony of God do ſuffer by the ſons of Hagar, and this generation of the Prieſts in Norwich: Given forth for no other end, but that the truth may be cleered from ſuch as ſcoff and deny it.</p>
+            <p>
+               <hi>Given forth from the Spirit of the Lord in us that do ſuffer in the Goal of Nor<g ref="char:EOLhyphen"/>wich for the truths ſake, which is perſecuted and ſlandered by the Prieſis and Rulers of this City: VVhoſe names in the fleſh is,</hi> Chriſtopher Atkinſon, George Whitehead, Iames Lancaſter, Thomas Simonds.</p>
+            <p>
+               <hi>London,</hi> Printed for <hi>Giles Calvert,</hi> at the black Spread-Eagle, at the Weſt end of <hi>Pauls,</hi> 1655.</p>
+         </div>
+      </front>
+      <body>
+         <div type="text">
+            <pb facs="tcp:118755:2"/>
+            <pb n="1" facs="tcp:118755:2"/>
+            <p>A bundle of papers, being brought unto our hands by one of the chiefe Prieſts of Norwich, which he hath rak't up in his imaginations, againſt the harmleſs people called Quakers, and being full of lyes and deceit, we are moved of the Lord for the truthes ſake, to cleare the truth from his lyes and deceit, and falſe accuſations, and to lay him and his two propoſitions (as hee calls them) o<g ref="char:EOLhyphen"/>pen unto the ſimple minded; who have been be<g ref="char:EOLhyphen"/>witched and deceived by ſuch deceivers and blind guides as he is; and put forth by one Sampſon Townſend, who calls himſelf a Miniſter of the Goſpel and a Paſtor of Saint Auſtins &amp; Savours Pariſh in Norwich.</p>
+            <sp>
+               <speaker>Prieſt.</speaker>
+               <p>
+                  <seg rend="decorInit">T</seg>HE Title of thy confuſed papers is, The Scripture proved to be the word of God, as alſo the only foundation of faith, and rule of our obedience, or a clear conviction of the errors of the quakers, who blaſphemouſly affirm that the Scriptures are not the word of God, nor the foundation of Faith, nor yet the only rule of our obed<g ref="char:EOLhyphen"/>ence; to which lyes and falſhoods we are moved to anſwer.</p>
+            </sp>
+            <sp>
+               <speaker>Anſwer.</speaker>
+               <p>THe Scriptures proved to be the word of God is falſe, and one of the blind, deceitful imaginations, which thouſand thy generation hath deceived people with, telling them, that that is the word which ſaith that God is the word, who made himſelf manifeſt in the dayes of old, be<g ref="char:EOLhyphen"/>fore the Letter was, which word was Moſes rule, who wrote forth Scrip<g ref="char:EOLhyphen"/>ture, and not the Letter but the word, which word by which Moſes was guided to ſpeak forth Scripture, and this is that word the Prophets pro<g ref="char:EOLhyphen"/>phesied
+<pb n="2" facs="tcp:118755:3"/>of which dwelt amongſt us, which was before the world was and ſeen before the Letter was written; now with the ſame life and power by which the Scripture was ſpoken, do we challenge thee to prove ſuch a Scripture as ſaith that it is the word of God, &amp; thou that would make peo<g ref="char:EOLhyphen"/>ple believe that the Letter is the foundation, would make void the founda<g ref="char:EOLhyphen"/>tion, upon which the Prophets and Apoſtles were builded, which ſpoke forth the Letter, and thou that would build upon the Letter, hateth the Light and the Foundation, which is Chriſt, from which the letter was ſpoken, and thy foundation, and thy rule and obedience is tryed with it, and by it thou art judged, now that which is convicted by thy ayrie ſpi<g ref="char:EOLhyphen"/>rit is like unto thy ſelfe, and is to be ſcorched up as the bryars, but the children of light who are of God and in the truth, cannot be convi<g ref="char:EOLhyphen"/>cted by ſuch as thou art, who from the light of God in thy Conſcience is departed, and with it art to be coudemned, ſo with the word and the life by which the Letter was declared thou art ſeen and comprehended to be an enemy unto that from which the Scripture was declared, and here again I challenge thee to be a perverter of it, notwithſtanding al thy pro<g ref="char:EOLhyphen"/>ſeſſion from it; and whereas thou haſt directed this confuſed paper unto us, of whom thou haſt deſcribed the names, as followeth, to <hi>Chriſtopher Atkinſon, Iames Lancaſter, George VVhitehead,</hi> and <hi>Thomas Simonds</hi> now in <hi>Norwich</hi> Goale for their Errours and Miſcarriages.</p>
+            </sp>
+            <sp>
+               <speaker>Prieſt.</speaker>
+               <p> 
+                  <hi>Thou ſayeſt if ever the truth of God were turned into a lye, it is by us (thou ſayest) that deny the Scriptures to be the Truth of God, and pretend immedi<g ref="char:EOLhyphen"/>ate Revelations to be our rule for our actions, and canſt not produce any proofe but the words of a dead man like thy ſelfe which thou calls Mr. Burroughs;</hi> to which we anſwer.</p>
+            </sp>
+            <sp>
+               <speaker>Anſ.</speaker>
+               <p> By thee Prieſt <hi>Townſend,</hi> is the truth of God turned into a lye, &amp; thou art taken with one in thy mouth, who ſaith that we before men<g ref="char:EOLhyphen"/>tioned are in the Goal of <hi>Norwich</hi> for errors and miſcarriages, here thou ſlanderer we challeng thee to prove what errors or miſcarriages can be laid to our charge, what is thy lyes and ſlanders, that which you would make the people believe? and are we counted deceivers for declaring the Truth, and teſtifying againſt thee and thy generations, as it is coun<g ref="char:EOLhyphen"/>ted an error in us to unvail thy deceits, and lay thee open to all men: here in the preſence of the Lord do we declare againſt thee, for errors and miſ<g ref="char:EOLhyphen"/>carriages do we deny, and this thy confuſed ſtuff wherein fyrſt thou ſayeſt that we deny the Scripture to be the truth of God, which is a lye, as thy own words makes it manifeſt, who in the ſame page of thy ſhamelels diſ<g ref="char:EOLhyphen"/>courſe, which now is laid open to the underſtanding of the Simple.</p>
+            </sp>
+            <sp>
+               <speaker>Prieſt.</speaker>
+               <p> 
+                  <hi>And again thou ſayeſt that we atknowledg the Scripture to be the truth, and yet deny them to be the word of God, here let all that ſees thy confuſ<g ref="char:EOLhyphen"/>ed paper judge thee, who art in Babel, where the confnſion is, and a miniſter of it.</hi>
+               </p>
+            </sp>
+            <sp>
+               <speaker>Anſ.</speaker>
+               <p> The Scripture we own as it was ſpoken forth by them that lived in the word, and receive it as a Declaration of God, and of what he ſpoke
+<pb n="3" facs="tcp:118755:3"/>unto them of former ages, Luke i. i. but thy words and imaginations we do deny, who would call that the word which ſaith God is the word, and that the light which is not the light, but ſaith Chriſt is the light, which is thy condemnation, that hates it in particular, and the worlds condem<g ref="char:EOLhyphen"/>nation that hates it in generall, as is made manifeſt, who hates revelati<g ref="char:EOLhyphen"/>ons and us who witneſs it, shutting thy ſelfe forth from the Scriptures, and from them that gave them forth, whereas Chriſt ſaith, no man knows the Father, but the Son, and to whom the Son wil reveal him, as thou may read, Mat. ii. 27. here thou haſt plainly shewn thy ſelf to be both with<g ref="char:EOLhyphen"/>out the knowledge of the Father and the Son, who art in thy mediate na<g ref="char:EOLhyphen"/>turall knowledge, which from the light which comes from Chriſt is er<g ref="char:EOLhyphen"/>red and with it to be condemned; thou dreamer, what haſt thou to do to profeſs thy ſelfe a Miniſter of the Goſpel, who art but yet in thy mediate natural conceivings, when the naturall man knows not the things of God, for they are Spiritually diſcerned; ſo we from God is unto thee thou de<g ref="char:EOLhyphen"/>ceiver, who would make people believe that that which is naturall and carnall is the foundation of Faith and obedience, and ſo would bewitch people with thy lyes, to draw them from the annointing within to ob<g ref="char:EOLhyphen"/>ſcure ſomething without them, as they did, that would have drawn away the Galathians from the Spirit, as thou mayeſt read, Galath. 3.</p>
+            </sp>
+            <sp>
+               <speaker>Prieſt.</speaker>
+               <p> 
+                  <hi>And whereas thou ſayeſt in the third Page that thou wilt reaſon with us, and tells ùs, that we did acknowledg the Scripture to be truth, which in the page before thou did deny; and thus is making thy folly manifeſt, who ſaith that it is our judgment, that we are perfect and free from Sin, which thou ne<g ref="char:EOLhyphen"/>ver heard us affirm, but theſe thy lyes will clearly be made manifeſt by the Scrip<g ref="char:EOLhyphen"/>tures which thou calls thy foundation of faith, &amp; only rule of obedience, by which thou ſhalt be judged, for Chriſt ſaith unto them whom he taught, be yee perfect, as your heavenly Father is perfect, Matthew</hi> 5.28.</p>
+            </sp>
+            <sp>
+               <speaker>Anſ.</speaker>
+               <p> But thou and thy generation hates this, and ſayes that there is no perfection to be attained here; Oh thou blinde guide! did Chriſt ever command any thing that might not be accomplished? or did he ſpeak of being perfect not till after death, here thou doſt deny the very end for which Chriſt came, who came to take away Sin, and in him is no Sin, Mat. i. 2i. i Iohn 3.3, 4, 5, 6. and i Iohn 5. i8. here thou haſt, plainly made it manifeſt, that thou art without Chriſt and his knowledg, and in Antichriſt, now what the Scripture ſpeaks, in our meafure do we witneſs concerning theſe things, and thee we do deny, and all thy generation, thou enemy of God, who doth pervert the Scriptures, and wreſt them to thy deſtruction, and here with the light that never changed art thou to be condemned from God and all the Children of God.</p>
+            </sp>
+            <sp>
+               <speaker>Prieſt.</speaker>
+               <p> 
+                  <hi>Another of thy lyes is made evident, thou ſlanderer, who art not aſha<g ref="char:EOLhyphen"/>med impudently to affirm, that we deny the power of the Magiſtrates in the mat<g ref="char:EOLhyphen"/>ters of God, and that we ſpeak not evell only of Governors, but of Government, and condemn the Miniſters of the Church of England, and deſpiſe them as ſalſe
+<pb n="4" facs="tcp:118755:4"/>teachers, and ſay they know nothing of the true light, and ſay we condemn them for preaching for hire, and ſayes we deny Miniſters ſhould take any wages for their works.</hi>
+               </p>
+            </sp>
+            <sp>
+               <speaker>Anſ.</speaker>
+               <p> The powers that are of God ordained, we own in our ſouls, and for Conſcience ſake are ſubject to them, and ſuch as rule wel in the things of God without reſpect of perſons, which reſpects of perſons is contrary to Scripture, ſuch we ſay are worthy of double honor, and ſuch our ſouls are ſubject to, for ſuch executed the Law upon tranſgreſſors, and encou<g ref="char:EOLhyphen"/>rage them that do well, and their honor lyes not in a hat, or bending of the knee, which is nothing but filthineſs, which thou and thy generati<g ref="char:EOLhyphen"/>on upholds, but the honor and ſubiection to him that ruleth wel is in our ſouls, as it is written, Rom. i3. i. and here thy lyes and thy ſlanders we do deny and charge it upon thee from the Lord, to prove where ever we were not ſubject unto the power of Magiſtrates as it was of God, or where ever we ſpoke evill of Governors or of Government: thus art thou found with lyes in thy right hand, thou enemy of God, and where thou ſayeſt we condemn the Miniſters of the Church of England, the Miniſters of Chriſt we own, but ſuch as thou art we deny, who ſeek for your gain from your quarter, and ſuch as call Steeple-houſe Church, and letter word, and foundation, and light, and rule, when Chriſt ſaith he is the way, and he is the light, and he is the foundation, and he is the word, which was before the Letter was, i Iohn i. 9. and Iohn 3. and Rev. i9. i. Cor. 3. i2. and here again we do deny all ſuch as ſay that ſprinckling of Infants is the Baptiſm and the ſeal of the Covenant, as thou <hi>Sampſon Townſend</hi> did affirm, and take i2. pence for ſprinkling of a poor priſoners child here in this priſon of <hi>Norwich,</hi> the sixteenth day of the eleventh Month, and the Scripture ſaith that the Baptiſme is with one Spirit into one body, and the baptiſme is but one, and the Church but one, which is in God, as thou may read, <hi>Epheſ.</hi> 4.5, 6. and i Theſ. i. and here thou and thy Church, and thy Baptiſme is ſhut out of Scripture, and with it judged, and with the light condemned to be all upheld by ſuch ſottish blind guides as thou art:</p>
+            </sp>
+            <sp>
+               <speaker>Prieſt.</speaker>
+               <p> 
+                  <hi>And again thon ſayeſt that the Miniſters of England ſpeaks nothing but what is according to the Law and the Teſtimony of God in his word, which is the rule to try all teachers by, and thou ſayeſt that this our Iudgment is con<g ref="char:EOLhyphen"/>trary to Tit.</hi> 2.15.</p>
+            </sp>
+            <sp>
+               <speaker>Anſ.</speaker>
+               <p> Whoſoever read that Scripture will condemn thy blindneſs in theſe things, who haſt pretended thy ſelf a teacher of others, and yet shut up in perpetuall darkneſs; thou blind ſot, where is it ſaid in all the Scriptures that the Letter is the rule to try all reachers by, or where doth it ever ſay that the Saints did ever try the Spirits by the Letter, or how canſt thou prove that ever it was called by the Saints the only rule of obedience; or a written word of God, with theſe thy lyes thou and thy generation hath deceived the blinde and: simple, taking their money for that which is no
+<pb n="5" facs="tcp:118755:4"/>bread, making them believe lyes inſtead of truth, Oh, ye enemies of God, how long will ye deſpiſe the truth, if Scripture had not been, theſe your filthy lyes would have gone forth as truth to thoſe that are in dark<g ref="char:EOLhyphen"/>neſs, but praiſed be the Lord who hath diſcovered your filthineſs, and laid you open with his light, from which the Scripture was ſpoken, by which light we read you in the Scripture to be among the falſe Prophets in their ſteps, and in the wayes of the Phariſes, and now finding you in the latter times your condemnation is juſtly related in the Scriptures, who go in the way of <hi>Cain,</hi> and run greedily after the error of <hi>Balaam,</hi> as thou may read <hi>Iude.</hi> 4.10, 11. and 2 <hi>Tim.</hi> 3.2, 3, 4, 5, 6.</p>
+            </sp>
+            <sp>
+               <speaker>Prieſt.</speaker>
+               <p> 
+                  <hi>And again thou ſayest that Chriſt and his Apoſtles gave ſtrong reaſons for their maintenance, and to prove it; thou brings thoſe Scriptures Mat.</hi> 10 1<gap reason="illegible" resp="#UOM" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>. <hi>
+                     <gap reason="illegible" resp="#UOM" extent="1 word">
+                        <desc>〈◊〉</desc>
+                     </gap>
+                  </hi> 10.7.</p>
+            </sp>
+            <sp>
+               <speaker>Anſ.</speaker>
+               <p> Let all that read thoſe Scriptures judg thee by me to be a lyar, who formerly haſt teſtifyed, that the Scripture was the word of God, and thy rule and foundation, and now calls it reaſon, which from reaſon was never ſpoken, but holy men of God ſpoke them forth, as they were mo<g ref="char:EOLhyphen"/>ved by the holy Ghoſt, now the Apoſtle which was a Miniſter of Chriſt never took wages of the world, neither did he compel them, though to them he preached the Goſpel, and though he robbed other Churches, yet he robbed not the World, neither took he wages of the world, nor hired with them for a certain time, as thou and thy generation do, and this was his boaſting to cut off offences, 2 <hi>Cor.</hi> i3. 9, 10.12. but with the light of God in the offences we finde you, who take wages of the World con<g ref="char:EOLhyphen"/>trary to the Apoſtles, whoſe practiſes judges you to be without their life whoſe entrance unto the <hi>Theſſalonians,</hi> he plainly doth declare, that it was neither for pleasing men, neither of deceit, nor guile, nor a clack of cove<g ref="char:EOLhyphen"/>touſnes, neither was their Goſpel burthenſom, as thou may read, i Theſ. 2, 3, 4, 5, 6. contrary to which thou and thy generation art found in the ſteps of them, the Prophets, Chriſt, and his Apoſtles cryed againſt, as thou may read, <hi>Iſ<gap reason="illegible" resp="#UOM" extent="2 letters">
+                        <desc>••</desc>
+                     </gap>.</hi> 56. and <hi>Ier.</hi> 5, and <hi>Mic.</hi> 3. and <hi>Mat.</hi> 23. and 2 <hi>Pet.</hi> 2. and <hi>Iude.</hi> 11. And this is the Goſpel the Apoſtles preached, which is witneſſed by the ſame Spirit which to thee is hid, and all thy generation, who out of their ſteps are found walking in the ſteps of the falſe.</p>
+            </sp>
+            <sp>
+               <speaker>Prieſt.</speaker>
+               <p> 
+                  <hi>Again thou ſayeſt the Apoſtle intimates that God is mocked, when His Miniſters are not maintaintained, and thou ſayeſt that God will not be rob<g ref="char:EOLhyphen"/>bed.</hi>
+               </p>
+            </sp>
+            <sp>
+               <speaker>Anſ.</speaker>
+               <p> Here is another of thy lyes, who perverts the Apoſtles words, and <gap reason="illegible" resp="#UOM" extent="1 span">
+                     <desc>〈…〉</desc>
+                  </gap> thy lyes to Scripture, when there is not ſuch a word in all the Apoſtles words as intimate, but thou and thy generation are ſeen to be both thieves and robbers; who enters not in at the dore, but climbs up another way, in your inventions, conſequences, and Imagina<g ref="char:EOLhyphen"/>tions, which are here plainly ſeen and diſcovered to them that enter in at the dore, and for diſhoneſt gain you deſtroy Souls, <hi>
+                     <gap reason="illegible" resp="#UOM" extent="1 word">
+                        <desc>〈◊〉</desc>
+                     </gap>
+                  </hi> 22.25, 26, 27.
+<pb n="6" facs="tcp:118755:5"/>and as a Troop of Robbers waite for a man, ſo do the company of Prieſts murther by conſent, <hi>Hoſea</hi> 6.9. and are found Robbers of God, as the falſe Prophets were, who in the time of the Law took tythes, and did not bring them to the ſtore-houſe, as thy generation now do, as thou may read, <hi>Mal.</hi> 3.8, 9, 10.</p>
+            </sp>
+            <sp>
+               <speaker>Prieſt.</speaker>
+               <p> 
+                  <hi>And thou ſayes thy deſign according to promiſe, is, to prove the Scriptures to be the word of God, the only ground of faith, and rule for our o<g ref="char:EOLhyphen"/>bedience, which thou ſayeſt thou preſented us with, and bids us read it, exa<g ref="char:EOLhyphen"/>mine it, if it be not truth, witneſs againſt it by truth, if it be ſo, as undoubtedly you wil finde it truth, as thou ſayeſt, and ſo bids us ſubmit to it, be ruled byit, and undoubtedly our bodies ſhall be freed from our deſerved impriſonment.</hi>
+               </p>
+            </sp>
+            <sp>
+               <speaker>Anſ:</speaker>
+               <p> We have read it, and examined it, and thee both, and have found thee to be a lyar, and a denyer of the Word, and of the rule, and of the foundation, which is Chriſt, and with that which thou calls the rule, and word and foundation, art thou judged, and with the light thou art ſeen to be a wreſter of the Scriptures, and thy Rotten foundation being alrea<g ref="char:EOLhyphen"/>dy to fail thee, for it is among the blind Watchmen and greedy dumb Doggs, and hire lings, and among the thieves and robbers, and among the Doggs and ſwine and filthy dreamers which the Scriptures ſpeaks of; &amp; as for our deſerved impriſonment, here thou lyar do we challenge thee and them that impriſoned us, to prove the breach of any la wby us, for they that did impriſon us as many can witneſs, could not charge us with the breach of any Law; but by their wills to maintain ſuch dumb ſhe<g ref="char:EOLhyphen"/>pheards as thou art; for, for the truths ſake, which witneſſes againſt thee and all thy generation do we ſuffer, for which thou and thy generation never did ſuffer impriſonment, nor perſecution of the world, for ye are of the world, and the world ſpeaks well of you, and heares you, as it did of your Fathers the falſe Prophets, 1 <hi>Ioh.</hi> 4, 5, and <hi>Luk.</hi> 6.26. drunkards ſwearers lyars and thieves ſpeaks well of you and fights for you, and loves you, and pleads for you, and there is your fruits and freedome; from our impriſonment will we never ſpeak for in yeilding to thy lyes, and falſe accuſations, as is plainly here laid open.</p>
+            </sp>
+            <sp>
+               <speaker>Prieſt.</speaker>
+               <p> 
+                  <hi>And thou ſayeſt from thy ſtudy Ianuary</hi> 29.</p>
+            </sp>
+            <sp>
+               <speaker>Anſ.</speaker>
+               <p> Here thy filthy rotten ſtuft which thou haſt been ſuch a long time of gathering together in thy ſtudy, its tryed and ſeen to be fewel for the fire, and thou art ſeen to ſtudy divinations of thy own brain, and to be an inventer of lyes, contrary to Scripture, and where did ever any of the Saints go into a ſtudy, and rake up ſuch filthy ſtuff, and invent ſuch lyes as thou art diſaproved in, &amp; with that which thou calls thy word, thy foun<g ref="char:EOLhyphen"/>dation, and only Rule of obedience. Here let the life of all the holy men of God judg thee to be both ſhut out of their life and out of the Scrip<g ref="char:EOLhyphen"/>tures.</p>
+               <p>Having returned anſwer to the former part of thy retten ſtuff, <hi>Sampſon
+<pb n="7" facs="tcp:118755:5"/>Townſend</hi> wherein thy lies and deceit is uncovered to all them that have eyes to ſee, may ſee thy nakedneſs and thy ſhame laid open: now for the Simple ones ſake, which thou by thy lyes and divinations makes a prey upon, and through thy covetouſneſs makes Merchandiſe of, who phariſee-like would neither enter into the Kingdom thy ſelf, nor ſuffer others to en<g ref="char:EOLhyphen"/>ter in; now for their ſakes are we moved to unvaile thee and thy deceit, that they that ſee not might ſee thee in thy lyes and wreſting the Scrip<g ref="char:EOLhyphen"/>ture, as thou haſt alſo made it appear in the latter part of thy book; wherein thou ſayeſt,</p>
+            </sp>
+            <sp>
+               <speaker>Prieſt.</speaker>
+               <p>That thou haſt undertaken againſt the Quakers theſe two propoſitions, <hi>i.</hi> that the Scriptures contained in the Old and New-Teſtament (commonly called the Bi<g ref="char:EOLhyphen"/>ble) is the revealed will and word of God, <hi>2.</hi> That the Scripture which is the word of God, is the only foundation of our Faith, and only rule for our obedi<g ref="char:EOLhyphen"/>ence, which thou ſayeſt thou wilt prove, <hi>1.</hi> by Scripture, <hi>2.</hi> by reaſon, and thou ſayeſt that he that will not heare the voice of Scriptures is an Infidell, and he that will not heare the voice of reaſon is a beaſt.</p>
+            </sp>
+            <sp>
+               <speaker>Anſwer.</speaker>
+               <p>We who in ſcorn by thee and thy generation are called quakers, do own Scriptures, but thee we utterly deny for an evill Beaſt, whoſe mouth muſt be ſtopped, <hi>Tit.</hi> i. 10, 11, 12. who in thy filthy reaſon art going a<g ref="char:EOLhyphen"/>bout to maintain thoſe things which thou canſt not prove by any plain Scripture, but to it art found adding in thy reaſon, and thy invention, and thererefore the plagues that are in it written is thy portion, and the Lake which is the portion of all lyars as thou art, <hi>Rev.</hi> 21.8. <hi>Rev.</hi> 22.18.19.</p>
+            </sp>
+            <sp>
+               <speaker>Prieſt.</speaker>
+               <p>Again thou ſayeſt that the Scriptures ought to convince us as Chriſtians, rea<g ref="char:EOLhyphen"/>ſon as rationall men.</p>
+            </sp>
+            <sp>
+               <speaker>Anſwer.</speaker>
+               <p>They that are Chriſtians do ſee and comprehend thee, and thy reaſon, thy faith, thy obedience, thy rule, thy foundation, to be without the foun<g ref="char:EOLhyphen"/>dation and the word, which was before thy inventions was, and before <hi>Tuball Cam</hi> the inventer thy father was, in whoſe condition thou art, and
+<pb n="8" facs="tcp:118755:6"/>the word and foundation, and the way, was before the Beaſt and and falſe Prophet was, which thou art, <hi>Iſa.</hi> 9.15, 16. and this rule and foundation and word, did <hi>Moſes, David,</hi> and the reſt of the holy men of God witneſs, who ſpoke forth Scripture, which thou calls the word rule, and foundati<g ref="char:EOLhyphen"/>on, 1 <hi>Cor.</hi> 3.11. <hi>Pſal.</hi> 18.2.31.3. Here thou would make <hi>Moſes, David,</hi> and the reſt of the holy men of God who ſpoke forth Scripture, blind, like tey ſelfe, both without the word, rule, and foundation.</p>
+            </sp>
+            <sp>
+               <speaker>Prieſt.</speaker>
+               <p>Now to prove the Scripture the word of God, thou brings <hi>Exod. 20.1. Levit. 10.3.</hi> and many other Scriptures thou brings to the ſame effect, how God ſpake theſe words.</p>
+            </sp>
+            <sp>
+               <speaker>Anſwer.</speaker>
+               <p>Thou blind ſot, we challenge thee in the preſence of the living God, to prove in any of theſe Scriptures, that the Scriptures are the written word of God, or elſe ſtop thy mouth thou evill Beaſt, and ſlowe belly, doſt thou make no diſterence between the word and theſe words? and here again wee charge thee to be a lyar, and an adder to Scripture.</p>
+            </sp>
+            <sp>
+               <speaker>Prieſt.</speaker>
+               <p>And thou brings theſe Scriptures <hi>Iſa. 24.3.</hi> and <hi>Pſal. 12.5,</hi> and other Scrip<g ref="char:EOLhyphen"/>tures to the ſame purpoſe, how the Lord ſaith, and thus ſaith the Lord, and <hi>Jer. 1.1, 2.4.9.</hi> the words of Ieremiah to whom the word of the Lord came.</p>
+            </sp>
+            <sp>
+               <speaker>Anſwer.</speaker>
+               <p>And the word of the Lord that came to <hi>Ioel, Amos,</hi> and others, thou dreamer, doth ever <hi>Iſaiah, Ieremiah,</hi> or <hi>David,</hi> or <hi>Ioel,</hi> or <hi>Amos,</hi> or any of the holy men of God, ſay that the Scripture is the written word, whenas God who is the word, <hi>Iohn</hi> 1. ſpoke theſe words unto them, whoſe voice thou never heard, who ſpoke unto them before the Letter was written, which is a declaration of what the word ſpoke unto them, or was that pa<g ref="char:EOLhyphen"/>per and Ink, or could it be contained in paper and Inke, which came to the Prophets, whenas Ieremiah ſaith the word is fire in his heart, and a burning ſhut up in his bones, and a hammer that breaks the rocks, <hi>Ier.</hi> 20.9. <hi>Ier.</hi> 23.29.30. and behold I am againſt the Prophets ſaith the Lord, that ſteal my word every one from his neighbors, and behold I am againſt the Prophets ſaith the Lord, that uſe their tongues, and ſay he ſaith, and behold I am againſt them ſaith the Lord, that profeſs falſe dreams and tell them as thou doſt, and cauſe my people to erre by their lyes, and
+<pb n="9" facs="tcp:118755:6"/>by their lightneſs, yet I ſent them not, nor commanded them, therefor they ſhall not profit the people at all ſaith the Lord, and there thou art among the falſe Prophets and dreamers, which <hi>Ieremiah</hi> who witneſſed the word, cryed wo againſt ſuch Paſtors as thou art, <hi>Ier.</hi> 23.1.</p>
+            </sp>
+            <sp>
+               <speaker>Prieſt.</speaker>
+               <p>Thou ſayeſt thou ſhalt not need to mention the ſayings and doing of our Sa<g ref="char:EOLhyphen"/>viour Chriſt, which are frequently recorded in the New Teſtament, and hence it is called the word of Chriſt, and thou bring that Scripture, <hi>Coloſſ. 3.16.</hi> let the word of Chriſt dwel in you.</p>
+            </sp>
+            <sp>
+               <speaker>Anſwer.</speaker>
+               <p>Here again we challenge thee to be a lyar, and an adder to the Scripture: doſt thou make no difference between death and life, for Chriſt ſaith, my words gives life, and it was by his word that the dead was raiſed, <hi>Iohn</hi> 11. now that which <hi>Matthew, Mark, Luke,</hi> and <hi>Iohn</hi> wrote of Chriſt, could not give life, for that is called a Declaration of thoſe things which was freely delivered among them, <hi>Luke</hi> 1.1. and that thou calls the word which is death and killeth, as thou may read, 2 <hi>Cor.</hi> 3. and <hi>Paul</hi> was a Miniſter of the New-Teſtament, and not of the Letter, which thou calls the New Teſtament: <hi>ver.</hi> 6. and this word which dwelt in the Saints, they did neither call the Bible nor the Letter, as thou doſt, here thou haſt ma<g ref="char:EOLhyphen"/>nifeſted thy ſelfe to be a blinde guide, both ignorant of the Word and the Letter.</p>
+            </sp>
+            <sp>
+               <speaker>Prieſt.</speaker>
+               <p>Thou ſayeſt that it is all one to ſay the Scripture ſaith, and God ſaith.</p>
+            </sp>
+            <sp>
+               <speaker>Anſwer.</speaker>
+               <p>Thou blaſphemous beaſt, doſt thou make no diffrence between the Scrip<g ref="char:EOLhyphen"/>ture and God, or is the Scripture God, when the Scripture ſaith God who is the word, was in the beginning, and by him was all things made, and this was before the Scripture was written, <hi>Iohn</hi> 1.1. which thou would make thy God of, and here let all that reads this ſee thy blaſphemic.</p>
+            </sp>
+            <sp>
+               <speaker>Prieſt.</speaker>
+               <p>Again thou ſayeſt the word Scripture is put for God ſpeaking in the Scrip<g ref="char:EOLhyphen"/>ture, and thou brings Ioſhua <hi>1.5.</hi>
+               </p>
+            </sp>
+            <sp>
+               <speaker>Anſwer.</speaker>
+               <p>Let all that reads that Scripture Iudge and condemn thee to be a Ly<g ref="char:EOLhyphen"/>ar, for it ſpeaks not ſuch a word, as God ſpeaking in the Scripture.</p>
+            </sp>
+            <sp>
+               <speaker>Prieſt.</speaker>
+               <p>Again in the ſame page thou ſayeſt, that all the reſt that is written in the vo<g ref="char:EOLhyphen"/>lume is but a comment or expoſition of thoſe ten precepts.</p>
+            </sp>
+            <sp>
+               <speaker>Anſwer.</speaker>
+               <p>Thou diviner, where doſt thou prove ſuch a Scripture as comment? was that which the Prophets, Chriſt, and his Apoſtles ſpoke out a comment or expoſition? here again we charge thee Prieſt <hi>Townſand,</hi> to be an in<g ref="char:EOLhyphen"/>venter and a deviſer of lyes, which thou haſt no Scripture for</p>
+            </sp>
+            <sp>
+               <pb n="10" facs="tcp:118755:7"/>
+               <speaker>Prieſt.</speaker>
+               <p> 
+                  <hi>Again thou ſayeſt that thus it appeares that the Scriptures are the word of God, becauſe God writ them, and cauſed them to be written.</hi>
+               </p>
+               <p>
+                  <hi>Anſwer.</hi> That which is written is the Letter, which is death and kil<g ref="char:EOLhyphen"/>leth, 2. <hi>Cor.</hi> 3.16. but the word is living, <hi>Heb.</hi> 4.12. there again with the Scripture thou art diſaproved to be a lyar.</p>
+            </sp>
+            <sp>
+               <speaker>Pr.</speaker>
+               <p> 
+                  <hi>Again in another page thou ſayſt, that the Scriptures are called the counſel of God, the will of the Lord, the myſtery of Gods will, and thou bring theſe Scriptures,</hi> Rom. 3.2. 1 Pet. 4.11. Acts 20.27. Pſal. 33.11. <hi>and</hi> Pro. 19.21. Epheſ. 5.17. <hi>and to conclude this, thou ſayeſt that God himſelf calls the Scriptures his word, and to maintain that thou brings,</hi> Zach. 1.6.</p>
+            </sp>
+            <sp>
+               <speaker>Anſ.</speaker>
+               <p> Let all that reads theſe Scriptures, ſee thee to be a perverter of Scripture, and adds thy inventions to them, for they that ſpoke forth theſe Scriptures, knew the Counſell of God, and the myſtery, and the Goſpell, which to thee is hid, whom the God of this world hath blinded thy eyes, and out of the myſtery and Goſpel, and rule, and foundation, thou art with that which thou calls the only rule, and word, and foundation, art thou iudged, and with light ſeen and condemned, to be an inventer of lies and a deceiver of the blind, but no further canſt thou proceed, for thy fol<g ref="char:EOLhyphen"/>ly ſhall be made manifeſt to all men.</p>
+            </sp>
+            <sp>
+               <speaker>Prieſt.</speaker>
+               <p> 
+                  <hi>In a ſecond reaſon of thine; thou ſayeſt, the antiquity of the Scriptures do clearly prove them to be of God, for man could never write of things done be<g ref="char:EOLhyphen"/>fore he had a being, but the works of the five firſt dayes Creation, are mentioned in Scripture, but man was not made till the ſixt day, therefore they muſt needs be the word of God.</hi>
+               </p>
+            </sp>
+            <sp>
+               <speaker>Anſ.</speaker>
+               <p> Here thou blind Beaſt, who art ignorant of God, who makes an<g ref="char:EOLhyphen"/>tiquity as thou calls it, the perfect knowledg of God, and ſayes that man could not declare of things before ever he had a being, and ſo would make people believe that the Scripture reveal God, thou blind Beaſt, whether was man, or the Scriptures firſt? and whether did God make him<g ref="char:EOLhyphen"/>ſelf manifeſt unto? and thou that ſayeſt that the Scripture reveal God, thou art a lyar, for God revealed himſelf to Moſes, before the Scripture was writ<g ref="char:EOLhyphen"/>ten, and Moſes who was the firſt pen-man of the Scripture, was 14 Genera<g ref="char:EOLhyphen"/>tions after the fall, and yet he wrote of things, before the fall was, and thy father <hi>Cain</hi> was before Moſes was, and yet he knew no Scripture, and thou that would make the Letter the light and way of knowing God, art not ſo much as a Miniſter of the Letter, and here thou art made manifeſt to be in the fall, in the death, which paſt over all men before <hi>Moſes</hi> was, and are not come to ſee the firſt dayes work, to ſee light divided from darkneſs, and here let all the Prophets and holy men of God judge thee with the Light, from which thou art erred, for they wrote of Chriſt, and ſaw his day many Generations before he came in the fleſh, and here thy antiquity, and thy reaſons, and the three perſons thou dreams of, which would devide out of one, like a conjurer are all denied, and thou ſhut up with them in perpetuall darkneſs for the Lake and pit, for thou haſt
+<pb n="11" facs="tcp:118755:7"/>no Scripture that mentious ſuch things.</p>
+            </sp>
+            <sp>
+               <speaker>Prieſt.</speaker>
+               <p> 
+                  <hi>And where thou art telling that the Scripture converts the Soul, and works Grace, and the opening thereof make hearts to tremble, and ſayes that Scriptures diſcovers mens thoughts, and makes Laws for them.</hi>
+               </p>
+            </sp>
+            <sp>
+               <speaker>Anſ.</speaker>
+               <p> Here thou haſt made thy ſelf manifeſt, where did ever any of the holy men of God, ſay that the Scripture converts the Soul or make Laws for mens thoughts? and what is that which opens the Scripture? or where is it, if the bare Letter convert the Souls? here thou Prieſt of <hi>Baal,</hi> for that is thy name, thy lyes are made manifeſt and deceits laid open to the Children of the Light, and art ſeen with the light from which the Scrip<g ref="char:EOLhyphen"/>ture was ſpoken.</p>
+            </sp>
+            <sp>
+               <speaker>Prieſt.</speaker>
+               <p> 
+                  <hi>Again thou ſayeſt the Scripture ſpeaks to all men alike, but thus do not the word of man, therefore thou ſayeſt they are the word of God.</hi>
+               </p>
+            </sp>
+            <sp>
+               <speaker>Anſ.</speaker>
+               <p> But thou thy ſelf and thy generation are perverters of the Scrip<g ref="char:EOLhyphen"/>ture, and are reſpectors of perſons, for you are called of men Maſter ſtands praying in the Synagogues, has the chiefeſt places in the aſſem<g ref="char:EOLhyphen"/>blies, and the greeting in the Markets, and are pleading for cap and knee and ſayes we do not reverence Magiſtrates, becauſe we do not put off our hats, and bend our knees, as thou and the reſt of thy generation of Hy<g ref="char:EOLhyphen"/>pocrites do, who have mens perſons in admiration, becauſe of advan<g ref="char:EOLhyphen"/>tage, <hi>Iude.</hi> 16. and this which you calls the word, ſpeaks not to all men alike, for wo is pronounced in it to ſuch as thou art, who art found in the ſteps of the falſe Prophets and Scribes, and Phariſes, and goes in the way of <hi>Cain,</hi> to envie, and after the error of <hi>Balaam</hi> for gifts and rewards, which wo was never pronounced to the righteous, and wo unto thee thou lyar, who art a wreſter of Scripture to thy own deſtruction, and art found with ſo many Lyes, as thou haſt here uttered.</p>
+            </sp>
+            <sp>
+               <speaker>Prieſt.</speaker>
+               <p> 
+                  <hi>In another place thou ſayeſt no Creature (Angels men or Devils if all were put together in one) could ever Diclare before-hand, what paarticular perſon ſhould be borne, and what ſhould be their names, in ſo many thouſands</hi> yeers before their birth.</p>
+            </sp>
+            <sp>
+               <speaker>Anſ.</speaker>
+               <p> Here thou art taken with another lye, with which thou haſt ſtuf<g ref="char:EOLhyphen"/>fed up this thy confuſed Book, for both by Angels and Men was Ieſus Chriſt the Son of-God prophesied of <hi>Moſes,</hi> who was many years before Chriſt came in the fleſh, prophesied of Chriſt, and ſaid, like unto me wil God raiſe up a Prophet, him ſhall the people hear, <hi>Mat.</hi> 1.17. ſee if thou can number the year of all theſe generations which prophesied of Chriſt and when Chriſt came, he ſaith, before Abraham was I am, thus art thou-known and comprehended with the truth, which all thy fathers and ge<g ref="char:EOLhyphen"/>nerations paſt perſecuted, ſo be aſhamed and ſtop thoy mouth for evere</p>
+            </sp>
+            <sp>
+               <speaker>Prieſt.</speaker>
+               <p> 
+                  <hi>In that thou calls thy two propoſitions,</hi> 1. <hi>thou ſayeſt the Scriptures ar the means by which faith is wrought, and to prove that by thou brings Rom.</hi> 10.17</p>
+            </sp>
+            <sp>
+               <speaker>Anſ.</speaker>
+               <p> Shame cover thy face, thou full of rottenneſs and filthy dreames, where did thou ever read in Scripture that it is the means whereby faith
+<pb n="12" facs="tcp:118755:8"/>is wrought, when that Scripture ſaith, faith comes by hearing, and hea<g ref="char:EOLhyphen"/>ring; by the word; here thou art deafe, and never heard the word, and thy faith and word is without, but the word of faith which we preach, is nigh in the heart and mouth, <hi>Rom.</hi> 10.8 therefore ſearch thou the Scriptures with the Saduces who knew not Chriſt, for in them thou and thy generation thinks to have eternall life, but ye will not come unto Chriſt, that ye may have life, <hi>Iohn</hi> 5.38, 39, 40.</p>
+            </sp>
+            <sp>
+               <speaker>Prieſt.</speaker>
+               <p> 
+                  <hi>Again thou ſayeſt that the Scripture which thou calls the word, is an e<g ref="char:EOLhyphen"/>verlaſting rule ſo long as we live on earth.</hi>
+               </p>
+            </sp>
+            <sp>
+               <speaker>Anſ.</speaker>
+               <p> Thou blinde ſot, ſee thy confusion; can that Letter be everlaſting while we live upon earth? here thou haſt ſhewed thy reaſon where it is, that they that are not ſtark blind may ſee thee, thy reaſon and thy foun<g ref="char:EOLhyphen"/>dation to be in the mire and dirt, and may ſee thee to be a ſenceleſs natu<g ref="char:EOLhyphen"/>rall bruit Beaſt, who with thy lyes art made to be taken and deſtroyed, 2 <hi>Pet.</hi> 2.12.</p>
+            </sp>
+            <sp>
+               <speaker>Prieſt.</speaker>
+               <p> 
+                  <hi>And again thou ſayeſt, the moſt emminent believer ſin in many things.</hi>
+               </p>
+            </sp>
+            <sp>
+               <speaker>An.</speaker>
+               <p> Here is the end of thy teaching, here is thy rule, &amp; here is thy foun<g ref="char:EOLhyphen"/>dation, and here is thy obedience, and here is thy fruites, and here is thy ſervice, who commits sin and a Servant to Sin, and free from righteouſ<g ref="char:EOLhyphen"/>neſs; <hi>Iohn</hi> 8.24. <hi>Rom.</hi> 16.20. Oh thou blaſphemer and ſlanderer of the juſt, when wilt thou ceaſe from thy Lyes, and blaſphemy, where doſt or canſt thou prove ſuch a Scripture as the moſt emmment believer, Sin in any things, when the Scripture ſaith he that believeth is born of God, and he that is bore of God sinneth not, for whoſoever sinneth hath not ſeen him, neither known him, and he that committeth sin is of the Devill, and theres thy condition, and he is thy Father who is the father of all ly<g ref="char:EOLhyphen"/>ars as thou art, i <hi>Iohn</hi> 3.3, 4, 5, 6, 7, 8.</p>
+            </sp>
+            <sp>
+               <speaker>Prieſt.</speaker>
+               <p> And to conclude thy filthy rotten ſtuff, thou ſayeſt they that make not the word of God the rule for their actions are led either by their own fancies, or the Devils temptations, or both.</p>
+            </sp>
+            <sp>
+               <speaker>Aſn.</speaker>
+               <p> Thee Prieſt. <hi>Townſend</hi> art here laid open, and thou art uncovered, and here thou art found to be a denyer of the word, and rule, and foun<g ref="char:EOLhyphen"/>dation, and thou art led by thy dreames and fancies, and thy foundation is in the duſt, and thou art reſerved in everlaſting chains under darkneſs, for everlaſting fire, and here thou in all theſe thy lyes, art ſhut out from God, and all the Children of God, among the doggs and Sorcerers, and the Lake is thy portion, which is the portion of all lyars, <hi>Iude.</hi> 6, 7, 8. thus have we returned a full anſwer unto thy ſenſeleſs ſtuff and in plain<g ref="char:EOLhyphen"/>neſs have we dealt with thee, and have not flatterd thee at all there, cal it not railing, leaſt thou violate the Scriptures ſo with the word of truth thou art tryed, and comprehended, and us ſhalt thou witneſs eternally, when the book of Conſcience comes to be opened, and thou judged out of it, ſo we remain, Sufferers for the truth, and witneſſes againſt thee and thy generation.</p>
+            </sp>
+            <closer>
+               <signed>Named according to the fleſh, <hi>Chriſtopher Atkinſon, Iames Lancaſter, George VVhitehead, Thomas Simonds.</hi>
+               </signed>
+            </closer>
+         </div>
+         <div type="speech">
+            <pb n="13" facs="tcp:118755:8"/>
+            <head>Several words ſpoken by this ſaid Prieſt <hi>Townſend,</hi> before he ſent theſe Propoſitions.</head>
+            <p>THE 16. day of the 11. month, this Prieſt <hi>Townſend</hi> came to this Priſon of <hi>Norwich,</hi> and ſaid that ſprinkling of Infants was the ſeal of the Covenant, and that it was an ordinance of Chriſt, and that it was to the ſeed of believers, and he ſprinckled a womans Child in this priſon aforeſaid, who was impriſoned for whoredome, and for ſprinc<g ref="char:EOLhyphen"/>ling of it he took twelve pence, and when he was charged with it he de<g ref="char:EOLhyphen"/>nyed it, and then it being laid further to his charge, he then could not deny it, and he ſaid he took it not for ſprinckling of the Child, but for coming to this priſon, and he ſaid the Labourer is worthy of his hire; and he ſaid that <hi>Paul</hi> was not ſent to baptize, but to preach, but he ſaid hee was ſent both to baptize and to preach, and that he had a Commſſion for both, and he ſaid we were of the Devills confederates, and he ſaid the Devil ſpoke in <hi>Chriſtopher Atkinſon,</hi> and he ſaid the Lord rebule thee Satan, and he ſaid the Bible is the word of God, and he called <hi>Chriſtopher Atkin<g ref="char:EOLhyphen"/>ſon</hi> ſauce-box, and he ſaid that we would take the Miniſters maintenance away, that they might go begging from dore to dore, and he ſaid he would ſend four or five propositions within a fortnight, and afterward he ſaid he would ſend them within a month, and he ſaid that Paul had good victuals and ſtrong beere at one mans houſe, and he ſaid we might reve<g ref="char:EOLhyphen"/>rence Magiſtrates in daffing the hat, and having the heads uncovered, and in bowing, and he ſaid that he that prayes or prophesies with his head covered, diſhonors his head, and he being demanded why the Prieſt had ſome of them two caps on when they pray, he ſaid becauſe of infir<g ref="char:EOLhyphen"/>mities of their bodies, and he ſaid that he would have ſent propositions before now, but that he ſaid he thought we would ſend them to be prin<g ref="char:EOLhyphen"/>ted, therefore he ſaid he would be cautious and wary in writing them, &amp; he ſaid that God recorded the Devills words.</p>
+            <p>Theſe words were ſpoken by this ſaid <hi>Sampſon Townſend,</hi> who calls him<g ref="char:EOLhyphen"/>ſelf a Miniſter of the Goſpell and a Paſtor.</p>
+            <trailer>FINIS.</trailer>
+         </div>
+      </body>
+   </text>
+</TEI>
